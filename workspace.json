@@ -1,7 +1,9 @@
 {
   "version": 2,
   "projects": {
+    "chrome-extension": "apps/chrome-extension",
+    "core": "libs/core",
     "web-app": "apps/web-app",
-    "web-app-e2e": "apps/web-app-e2e"
+    "web-ui": "libs/web-ui"
   }
 }
